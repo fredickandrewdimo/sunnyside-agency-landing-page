@@ -1,4 +1,5 @@
 import Hero from "../sections/Hero";
+import Services from "../sections/Services";
 
 function Home() {
   return (
@@ -7,6 +8,7 @@ function Home() {
       <Hero />
 
       {/* About section */}
+      <Services />
     </>
   );
 }
