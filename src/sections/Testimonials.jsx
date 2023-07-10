@@ -4,8 +4,8 @@ function Testimonials() {
       {/* background */}
       <div className="bg-orange-50">
         {/* width content */}
-        <div className="w-11/12 m-auto mn-h-screen">
-          <h2 className="text-center font-kadwa text-2xl font-bold text-gray-400 pt-10 lg:pt-24 lg:pb-28 pb-14">
+        <div className="w-11/12 m-auto mn-h-screen py-10 lg:py-24">
+          <h2 className="text-center font-kadwa text-2xl font-bold text-gray-400 lg:pb-28 pb-14">
             CLIENT TESTIMONIALS
           </h2>
           {/* testimonial grid  */}
