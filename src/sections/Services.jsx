@@ -8,8 +8,8 @@ function Services() {
       {/* main container */}
       <div className="">
         {/* 1st section */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 ">
-          <div className="order-last lg:order-first bg-orange-50 font-kadwa px-7 lg:px-36 py-14 text-center flex-col flex justify-center lg:text-start">
+        <div className="grid grid-cols-1 md:grid-cols-2 ">
+          <div className="order-last md:order-first bg-orange-50 font-kadwa px-7 lg:px-36 py-14 text-center flex-col flex justify-center lg:text-start">
             <h2 className="font-bold mb-5 text-3xl lg:text-4xl">
               Transform your brand
             </h2>
